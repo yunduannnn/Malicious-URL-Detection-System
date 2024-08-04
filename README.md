@@ -1,4 +1,4 @@
-#This Repo is from the Paper: Machine learning to classify Malicious URLs, Owned by Shiyun Li and Omar Dib.
+#This Repo is from the Paper: Enhancing Online Security: "A Novel Machine Learning Framework for Robust Detection of Known and Unknown Malicious URLs", Owned by Shiyun Li and Omar Dib.
 
 #Readers can check the source code for different part of this paper, including:
 1. Feature Statistical Analysis: Malicious_URL_Detection_final_feature_analysis.ipynb
