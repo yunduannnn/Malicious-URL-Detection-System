@@ -1,6 +1,7 @@
 This Repo is from the Paper: Enhancing Online Security: "A Novel Machine Learning Framework for Robust Detection of Known and Unknown Malicious URLs", Owned by Shiyun Li and Omar Dib.
 
 Here is our paper cite link:
+
 J. Theor. Appl. Electron. Commer. Res. 2024, 19(4), 2919-2960; https://doi.org/10.3390/jtaer19040141
 
 Readers can check the source code for different part of this paper, including:
