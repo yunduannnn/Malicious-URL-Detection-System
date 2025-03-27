@@ -8,12 +8,12 @@ Abstract: The rapid expansion of the internet has led to a corresponding surge i
 
 **<p align="center">Architecture of machine learning-based malicious URL classification</p>**
 <p align="center">
-<img src="Figures/Application Senario.png" width="280" />
+<img src="Figures/Application Senario.png" width="800" />
 </p>
 
 **<p align="center">The framework of the proposed malicious URL detection system (MUDS)</p>**
 <p align="center">
-<img src="Figures/Malicious URL Detection System.png" width="280" />
+<img src="Figures/Malicious URL Detection System.png" width="800" />
 </p>
 
 Readers can check the source code for different part of this paper, including:
